@@ -29,7 +29,7 @@ export const tourData = [
     img: "./../../img/city-lights.jpg",
     city: "london",
     info:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+      "London is considered to be one of the world's most important global cities and has been termed the world's most powerful, most desirable, most influential, most visited, most expensive, innovative, sustainable, most investment friendly, most popular for work, and the most vegetarian friendly city in the world"
   }
 ];
 
